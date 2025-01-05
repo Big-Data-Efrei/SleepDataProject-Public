@@ -27,7 +27,7 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 
 - **Potentiel d'Intervention** : Ces informations peuvent être utilisées pour fournir des recommandations personnalisées pour améliorer les habitudes de sommeil.
 
-![Durée Moyenne de Sommeil par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/assets/chart_1.png)
+![Durée Moyenne de Sommeil par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/blob/main/assets/chart_1.png)
 
 ---
 
@@ -43,7 +43,7 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 
 - **Interventions Ciblées** : Ces informations peuvent aider à cibler les interventions de gestion du stress pour les individus les plus stressés.
 
-![Niveau de Stress par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/assets/chart_2.png)
+![Niveau de Stress par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/blob/main/assets/chart_2.png)
 
 ---
 
@@ -59,7 +59,7 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 
 - **Tendances Générales** : La ligne bleue du graphique montre une fluctuation de la durée de sommeil, influencée par des facteurs tels que les cycles biologiques et les obligations professionnelles.
 
-![Tendance de la Durée de Sommeil par Âge](https://github.com/Big-Data-Efrei/SleepDataProject-Public/assets/chart_3.png)
+![Tendance de la Durée de Sommeil par Âge](https://github.com/Big-Data-Efrei/SleepDataProject-Public/blob/main/assets/chart_3.png)
 
 ---
 
@@ -73,7 +73,7 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 
 - **Focus sur l'Intervention** : Les groupes avec des niveaux d'activité physique faibles peuvent être ciblés pour des interventions visant à augmenter leur activité physique.
 
-![Niveau d'Activité Physique par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/assets/chart_4.png)
+![Niveau d'Activité Physique par Groupe de Person_ID](https://github.com/Big-Data-Efrei/SleepDataProject-Public/blob/main/assets/chart_4.png)
 
 ---
 
@@ -91,6 +91,6 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 
 -**Impact de l'Occupation sur le Sommeil** : Les professions telles que Manager ou Lawyer, associées à des niveaux de stress plus élevés, peuvent montrer des durées de sommeil réduites.
 
-![Durée Moyenne de Sommeil par Genre et Occupation](https://github.com/Big-Data-Efrei/SleepDataProject-Public/assets/chart_5.png)
+![Durée Moyenne de Sommeil par Genre et Occupation](https://github.com/Big-Data-Efrei/SleepDataProject-Public/blob/main/assets/chart_5.png)
 
 ---
