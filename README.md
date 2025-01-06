@@ -34,3 +34,8 @@ Le sommeil joue un rôle crucial dans la santé physique et mentale. Cependant, 
 ## Conclusion
 
 Ce projet vise à fournir des insights précieux sur les interactions entre le sommeil, l'activité physique, l'occupation, le stress et les caractéristiques démographiques. En utilisant les fichiers de données fournis et en exécutant des analyses approfondies, nous espérons pouvoir identifier des moyens d'améliorer la qualité du sommeil et le bien-être général des individus.
+
+
+## Certificat
+
+[Georgy Guei: certificat](https://api.accredible.com/v1/auth/invite?code=b3a56d0dd19d60b2998a&credential_id=c439941e-d8ce-42b6-8155-2ca2809b0763&url=https%3A%2F%2Fcredentials.databricks.com%2Fc439941e-d8ce-42b6-8155-2ca2809b0763&ident=93539bc4-5d06-4b36-ab10-1c82092a4a97)
